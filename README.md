@@ -86,5 +86,17 @@ XGBoost achieved the highest recall and PR-AUC, making it the most effective fra
 
 ---
 
-## 📂 Project Structure
 
+---
+
+## 🚀 How to Run
+
+1. Clone repository
+2. Install dependencies
+3. Run Jupyter notebook
+
+---
+
+## 👤 Author
+Subodh Kumar  
+Machine Learning & Data Science Enthusiast
